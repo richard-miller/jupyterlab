@@ -3,4 +3,4 @@
 # Install mesa_read from repo
 
 git clone https://github.com/wmwolf/py_mesa_reader.git
-cd cd py_mesa_reader; pip install .
+cd py_mesa_reader; pip install .
